@@ -1,6 +1,8 @@
 # Simple-Multitasking-Python-Game-1st-repo-
 A python code utilizing some of the basic fundamentals such as variables, functions, and loops to create a simple console-based app that performs numerous tasks. These tasks include a few traditional games such as rock, paper, scissors, and guess which card.
+
 Developed in the Spyder IDE.
+
 To use, view the menu upon running the program- 5 mini-terminal game options will appear alnog with a 6th option to quit the program; otherwise it'll remain in a loop. 
 Press any number between 1-5 to play your game of choice or 6 to quit.
 Game 1 is rock paper scissors - type 1 for rock, 2 for scissors, 3 for paper; the algorithm will choose a random one out of the three. You'll immediately be notified if you win or lose; the cycle repeats three times.
